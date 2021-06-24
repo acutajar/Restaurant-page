@@ -1,0 +1,15 @@
+title = "Fry Shak Contacts"
+
+[owner]
+name = "Neeeyathan"
+bio = "'Greatest Fry Shak operator to ever live' - Ghandi"
+phone = "555-6969"
+address = "can be found at any deep fryer with >15 gallon oil capacity"
+photo = "../dist/images/neeeyathan.png"
+
+[manager]
+name = "Muiriel"
+bio = "Connoisseur of Goldfish and IPA"
+phone = "123-4569"
+address = "Key West or something idk"
+photo = "../dist/images/muiriel.png"

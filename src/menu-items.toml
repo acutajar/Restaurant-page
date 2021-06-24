@@ -1,0 +1,31 @@
+title = "Fry Shak Menu"
+
+[skrimp]
+name = "Fried Skrimp"
+bio = "We take skrimps, then we fry em"
+photo = "../dist/images/skrimp.jpg"
+price = "$21"
+
+[oysties]
+name = "Fried Oysties"
+bio = "We take oysties, then we fry em"
+photo = "../dist/images/oysties.jpg"
+price = "$25"
+
+[chicken]
+name = "Fried Chicken"
+bio = "We take chicken, then we fry it"
+photo = "../dist/images/chicken.jpg"
+price = "$15"
+
+[pork]
+name = "Fried Pork Chop"
+bio = "We take pork chops, then we fry em"
+photo = "../dist/images/porkchop.jpg"
+price = "$89"
+
+[goldfish]
+name = "Goldfish"
+bio = "We take Godlfish crackers, then we put em in a bowl"
+photo = "../dist/images/goldfish.jpeg"
+price = "$11"
